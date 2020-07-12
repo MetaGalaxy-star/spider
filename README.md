@@ -25,4 +25,4 @@ spider exercise
 <a name="抓取B站个人历史播放记录并可视化统计情况"></a>
 # 抓取B站个人历史播放记录并可视化统计情况
 就以一个简单的爬虫程序获取数据并可视化统计情况，我觉得有意义的是，可以清楚地了解自己的观看视频的偏好、历史播放记录不再是硬生生的数据，而是清楚明了的统计图。
-- 源码：
+- 源码：https://github.com/MetaGalaxy-star/spider/tree/master/B%E7%AB%99%E4%B8%AA%E4%BA%BA%E6%92%AD%E6%94%BE%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95%E6%8A%93%E5%8F%96
